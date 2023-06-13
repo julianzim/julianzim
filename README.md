@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Julian Zimin</h1>
+<h1 align="center">Hi, I'm Julian Zimin</h1>
 <h3 align="center">Junior Machile Learning engineer</h3>
 
 - 🌱 I’m currently learning **Data Science**
