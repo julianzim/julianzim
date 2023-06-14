@@ -5,7 +5,7 @@ I’m currently working at the Nuclear Power Plant and learning **Data Science**
 
 📫 How to reach me **ziminjulian@gmail.com**
 
-<p><h3 align="left">You can also find me on </h3><a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
+<p><h3 align="left">You can also find me here: <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a></h3>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
