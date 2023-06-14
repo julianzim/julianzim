@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Julian Zimin</h1>
-<h3 align="center">Nuclear Physics Engineer and Junior Machile Learning engineer</h3>
+<h3 align="center">Nuclear Physics Engineer and Junior Machine Learning engineer</h3>
 
 I’m currently working at the Nuclear Power Plant and learning **Data Science**. 
 I can also diagnose the board of your electronic device, unsolder the broken element and solder a new one
