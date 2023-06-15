@@ -12,13 +12,9 @@ I can also diagnose the board of your electronic device, unsolder the broken ele
 <h3 align="left">
 You can also find me here:
 </h3>
+
 <p>
 <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
-
-
-<a href="He" target="blank"><img align="center" src="https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Telegram_2019_Logo.svg" alt="julianzimin" height="30" width="40" /></a>
-
-
 </p>
 
 <h3 align="left">Languages and Tools I use:</h3>
