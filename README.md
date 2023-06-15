@@ -3,11 +3,11 @@
 <h3 align="center">Nuclear Physics Engineer and Junior Machine Learning engineer</h3>
 
 <p>
-I’m currently working at the Nuclear Power Plant and learning **Data Science**. 
+I’m currently working at the Nuclear Power Plant and learning <b>Data Science</b>. 
 I can also diagnose the board of your electronic device, unsolder the broken element and solder a new one
 </p>
 
-📫 How to reach me **ziminjulian@gmail.com**
+📫 How to reach me <b>ziminjulian@gmail.com</b>
 
 <h3 align="left">
 You can also find me here:
