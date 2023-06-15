@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Julian Zimin</h1>
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+
 <h3 align="center">Nuclear Physics Engineer and Junior Machine Learning engineer</h3>
 
 <p>
