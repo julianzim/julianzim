@@ -2,10 +2,6 @@
 
 <h3 align="center">Nuclear Physics Engineer and Junior Machine Learning engineer</h3>
 
-<p>
-I’m currently learning <b>Data Science</b>.
-</p>
-
 📫 How to reach me <b>ziminjulian@gmail.com</b>
 
 <h3 align="left">
