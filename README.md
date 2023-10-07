@@ -10,7 +10,7 @@ You can also find me here:
 
 <p>
   <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
-  <a href="https://leetcode.com/julikan/" target="blank"><img align="center" src="https://www.svgrepo.com/show/306328/leetcode.svg" alt="julianzimin" height="30" width="40" /></a>
+  <a href="https://leetcode.com/julikan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julianzimin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I use:</h3>
