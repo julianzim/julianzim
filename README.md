@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Julian Zimin</h1>
 
-<h3 align="center">Experienced ML specialist with deep knowledge of Python, algorithms and data structures with a wide range of skills in various areas of Machine Learning and Data cience, Deep and Machine Learning enthusiast, former Nuclear Physics Engineer, Industrial Control Systems Engineer</h3>
+<h3 align="center">Experienced ML specialist with deep knowledge of Python, algorithms and data structures with a wide range of skills in various areas of Machine Learning and Data Science, Deep and Machine Learning enthusiast, former Nuclear Physics Engineer, Industrial Control Systems Engineer</h3>
 
 📫 How to reach me <b>ziminjulian@gmail.com</b>
 
