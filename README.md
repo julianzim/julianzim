@@ -1,4 +1,6 @@
-<h1 align="center">Hi, I'm Julian Zimin</h1>
+<h1 align="center">
+  Hi, I'm Julian Zimin
+</h1>
 
 <h3 align="center">
   Experienced ML specialist with deep knowledge of Python, algorithms and data structures with a wide range of skills in various areas of Machine Learning and Data Science, Deep and Machine Learning enthusiast, former Nuclear Physics Engineer, Industrial Control Systems Engineer
@@ -6,13 +8,17 @@
 
 📫 How to reach me <b>ziminjulian@gmail.com</b>
 
-<h3 align="left">You can also find me here:</h3>
+<h3 align="left">
+  You can also find me here:
+</h3>
 <p>
   <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
   <a href="https://leetcode.com/julikan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julianzimin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h3 align="left">
+  Languages and Tools I use:
+</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -25,7 +31,9 @@
 </p>
 
 
-<h3 align="left">My Pets:</h3>
+<h3 align="left">
+  My Pets:
+</h3>
 <p>
   1. <a href="https://github.com/julianzim/Building_Analytics_with_CV"><b>Building analytics project</b></a> using Computer Vision
 </p>
