@@ -25,4 +25,14 @@ You can also find me here:
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 </p>
 
+
+<h4>My pet-projects:</h4>
+<p>
+  1. <a href="https://github.com/julianzim/Building_Analytics_with_CV">Building analytics project using</a> computer vision
+</p>
+
+
+
+
+
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianzim&theme=dark" alt="julianzim" height="200" width="400" /> </p>
