@@ -32,7 +32,7 @@
 
 
 <h3 align="left">
-  My Pets:
+  My Pets: &#128008;
 </h3>
 <p>
   1. <a href="https://github.com/julianzim/Building_Analytics_with_CV"><b>Building analytics project</b></a> using Computer Vision
