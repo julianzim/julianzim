@@ -1,15 +1,15 @@
 <h1 align="center">
-  Hi, I'm Julian Zimin
+  Hi, I'm Julian Zimin 
 </h1>
 
 <h3 align="center">
   Experienced ML specialist with deep knowledge of Python, algorithms and data structures with a wide range of skills in various areas of Machine Learning and Data Science, Deep and Machine Learning enthusiast, former Nuclear Physics Engineer, Industrial Control Systems Engineer
 </h3>
 
-📫 How to reach me <b>ziminjulian@gmail.com</b>
+&#128235; How to reach me <b>ziminjulian@gmail.com</b>
 
 <h3 align="left">
-  You can also find me here:
+  You can also find me here &#128301;
 </h3>
 <p>
   <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
@@ -17,7 +17,7 @@
 </p>
 
 <h3 align="left">
-  Languages and Tools I use:
+  Languages and Tools I use &#128736;
 </h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
@@ -32,7 +32,7 @@
 
 
 <h3 align="left">
-  My Pets: &#128008;
+  My Pets &#128008;
 </h3>
 <p>
   1. <a href="https://github.com/julianzim/Building_Analytics_with_CV"><b>Building analytics project</b></a> using Computer Vision
