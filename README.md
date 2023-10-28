@@ -28,7 +28,8 @@ You can also find me here:
 
 <h4>My pet-projects:</h4>
 <p>
-  1. <a href="https://github.com/julianzim/Building_Analytics_with_CV">Building analytics project using</a> computer vision
+  1. <a href="https://github.com/julianzim/Building_Analytics_with_CV">Building analytics project</a> using Computer Vision
+  2. <a href="">Credit scoring project</a>
 </p>
 
 
