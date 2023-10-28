@@ -1,19 +1,24 @@
-<h1 align="center">Hi, I'm Julian Zimin</h1>
+<h1 align="center">
+  Hi, I'm Julian Zimin
+</h1>
 
-<h3 align="center">Experienced ML specialist with deep knowledge of Python, algorithms and data structures with a wide range of skills in various areas of Machine Learning and Data Science, Deep and Machine Learning enthusiast, former Nuclear Physics Engineer, Industrial Control Systems Engineer</h3>
+<h3 align="center">
+  Experienced ML specialist with deep knowledge of Python, algorithms and data structures with a wide range of skills in various areas of Machine Learning and Data Science, Deep and Machine Learning enthusiast, former Nuclear Physics Engineer, Industrial Control Systems Engineer
+</h3>
 
 📫 How to reach me <b>ziminjulian@gmail.com</b>
 
 <h3 align="left">
-You can also find me here:
+  You can also find me here:
 </h3>
-
 <p>
   <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
   <a href="https://leetcode.com/julikan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julianzimin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools I use:</h3>
+<h3 align="left">
+  Languages and Tools I use:
+</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
@@ -26,14 +31,24 @@ You can also find me here:
 </p>
 
 
-<h4>My pet-projects:</h4>
+<h3 align="left">My Pets:</h3>
 <p>
-  1. <a href="https://github.com/julianzim/Building_Analytics_with_CV">Building analytics project</a> using Computer Vision
-  2. <a href="">Credit scoring project</a>
+  1. <a href="https://github.com/julianzim/Building_Analytics_with_CV"><b>Building analytics project</b></a> using Computer Vision
+</p>
+<p>
+  2. <a href=""><b>Credit scoring project</b></a>
+</p>
+<p>
+  2. <a href=""><b>Toxic comment detection projects</b></a>
+</p>
+<p>
+  2. <a href=""><b>MNIST object detection project</b></a>
 </p>
 
 
 
 
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianzim&theme=dark" alt="julianzim" height="200" width="400" /> </p>
+<p align="center"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julianzim&theme=dark" alt="julianzim" height="200" width="400" /> 
+</p>
