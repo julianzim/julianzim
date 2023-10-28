@@ -36,14 +36,15 @@
   1. <a href="https://github.com/julianzim/Building_Analytics_with_CV"><b>Building analytics project</b></a> using Computer Vision
 </p>
 <p>
-  2. <a href=""><b>Credit scoring project</b></a>
+  2. <a href=""><b>Credit scoring project</b></a> using Random Forest with deep feature engineering
 </p>
 <p>
-  2. <a href=""><b>Toxic comment detection projects</b></a>
+  3. <a href="https://github.com/julianzim/rcnn_mnist"><b>MNIST object detection project</b></a> using RCNN with Selective Search algorithm
 </p>
 <p>
-  2. <a href=""><b>MNIST object detection project</b></a>
+  4. <a href="https://github.com/julianzim/toxic_comment_detection"><b>Toxic comment detection projects</b></a> using classic ML algorithms
 </p>
+
 
 
 
