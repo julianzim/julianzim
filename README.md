@@ -5,14 +5,6 @@
 &#128235; How to reach me <b>ziminjulian@gmail.com</b>
 
 <h3 align="left">
-  You can also find me here &#128301;
-</h3>
-<p>
-  <a href="https://kaggle.com/julianzimin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="julianzimin" height="30" width="40" /></a>
-  <a href="https://leetcode.com/julikan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="julianzimin" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">
   My Pets &#128008;
 </h3>
 <p>
